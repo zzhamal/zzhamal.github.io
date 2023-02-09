@@ -2,4 +2,4 @@
 name = Portfilio
 
 [servers.ghpages]
-target = ghpages+https://zzhamal:SHA256:yi0MFJ5qozSaUVjUbdM7Fb7AkzVIxIFsBfaLMkTRFYw@zzhamal/zzhamal.github.io
+target = ghpages+https://zzhamal/zzhamal.github.io
