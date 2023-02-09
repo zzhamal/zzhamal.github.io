@@ -1,0 +1,5 @@
+[project]
+name = Portfilio
+
+[servers.ghpages]
+target = ghpages+https://zzhamal:SHA256:yi0MFJ5qozSaUVjUbdM7Fb7AkzVIxIFsBfaLMkTRFYw@zzhamal/zzhamal.github.io
